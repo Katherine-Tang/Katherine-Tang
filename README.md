@@ -2,7 +2,6 @@
 
 ### A exploring Python/html/workflow developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Katherine-Tang&label=Profile views&color=0e75b6&style=flat" alt="Katherine-Tang" /> </p>
 
 - 🔭 I'm currently working on **Building small web apps (HTML/JSX), creating AI-assisted workflows on Coze, and improving problem-solving through LeetCode.**
 
